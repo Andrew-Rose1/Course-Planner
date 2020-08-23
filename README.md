@@ -1,6 +1,4 @@
-[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=274871&assignment_repo_type=GroupAssignmentRepo)
-# cs241-project2
+# Course Planner
 
-My Name: Please edit this.
-
-About This Project: Please edit this.
+This program was written in Java and demonstrates the ability to check if a given list of course can be completed, with their respective prerequisites.
+Written and completed as a project at Western Washington University for CSCI241 in Summer 2020 quarter.
